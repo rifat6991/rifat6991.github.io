@@ -14,7 +14,7 @@ $(function () {
 
         // if the validator does not prevent form submit
         if (!e.isDefaultPrevented()) {
-            var url = "form/contact.php";
+            var url = "https://formspree.io/mdrifat96bd@gmail.com";
 
             // POST values in the background the the script URL
             $.ajax({
